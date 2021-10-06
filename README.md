@@ -1,4 +1,4 @@
-# alipay-pc-monitor 某宝PC账单监控程序
+# web-pc-monitor 某宝PC账单监控程序
 本程序基于python3 selenium框架开发的一套收款账单监控
 支持Linux、MAC、Windows，需要对selenium webdriver有一定了解
 
