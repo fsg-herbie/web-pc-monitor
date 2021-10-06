@@ -7,7 +7,7 @@ import json
 # 接口主域名
 host = "https://localhost"
 
-# 支付宝登录页面
+# 登录页面
 aliPayLoginUrl = "https://my.alipay.com/portal/i.htm"
 
 
